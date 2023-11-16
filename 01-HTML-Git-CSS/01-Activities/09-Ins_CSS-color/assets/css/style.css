@@ -11,6 +11,13 @@
   background-color: #0000ff;
 }
 
+.box-blue {
+  /* Sets font color */
+  color: rgb(136, 42, 42);
+  /* Sets background color */
+  background-color: #ce4d1a;
+}
+
 .box-orange {
   /* Uses hex codes to define color */
   color: #0000ff;
